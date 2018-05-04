@@ -1,4 +1,4 @@
-Streets of Namma Bengaluru | Interactive Journey by Yogeesh.me | http://streetsofbengaluru.com/
+<h1>Streets of Namma Bengaluru</h1> | Interactive Journey by Yogeesh.me | http://streetsofbengaluru.com/
 
 An Interactive journey that fuels the charm of namma Bengaluru, Please go through the site and get me proper assets wherever you feels the improvement need with respect to audio and images. 
 
