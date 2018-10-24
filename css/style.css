@@ -2868,3 +2868,6 @@ footer
       opacity: 0;
    }
 }
+#clustrmaps-widget-v2 > .clustrmaps-map-container > .clustrmaps-date {
+    display: none;
+}
